@@ -1,0 +1,378 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 980M (ID=0x13d7)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8233
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity\D&D Character Creator\RUN\Indev_01_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity\D&D Character Creator\RUN\Indev_01_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity\D&D Character Creator\RUN\Indev_01_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity\D&D Character Creator\RUN\Indev_01_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity\D&D Character Creator\RUN\Indev_01_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity\D&D Character Creator\RUN\Indev_01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity\D&D Character Creator\RUN\Indev_01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity\D&D Character Creator\RUN\Indev_01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.016 seconds
+Platform assembly: D:\Unity\D&D Character Creator\RUN\Indev_01_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity\D&D Character Creator\RUN\Indev_01_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3280x1080 at -1360,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.944004 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1204 -> priority: 1 
+  Thread -> id: 2a4 -> priority: 1 
+  Thread -> id: 36f8 -> priority: 1 
+  Thread -> id: 2ac8 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.920654 ms
+SettingsSingleton Load from D:\Unity\D&D Character Creator\RUN\Settings.cfg
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed loading settings of SettingsSingleton from D:\Unity\D&D Character Creator\RUN\Settings.cfg
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CheckFile from D:/Unity/D&D Character Creator/RUN/Indev_01_Data/Settings/Settings.cfg
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save settings file at D:/Unity/D&D Character Creator/RUN/Indev_01_Data/Settings/Settings.cfg with data: {
+    "BASE_STATS_DO_NOT_CHANGE": [
+        "Strength",
+        "Dexterity",
+        "Constitution",
+        "Intelligence",
+        "Wisdom",
+        "Charisma"
+    ],
+    "ExtraStats": [
+        {
+            "StatName": "Athletics",
+            "StateBase": 0
+        },
+        {
+            "StatName": "Acrobatics",
+            "StateBase": 1
+        },
+        {
+            "StatName": "Sleight Of Hand",
+            "StateBase": 1
+        },
+        {
+            "StatName": "Stealth",
+            "StateBase": 1
+        },
+        {
+            "StatName": "Endurance",
+            "StateBase": 2
+        },
+        {
+            "StatName": "Arcana",
+            "StateBase": 3
+        },
+        {
+            "StatName": "History",
+            "StateBase": 3
+        },
+        {
+            "StatName": "Investigation",
+            "StateBase": 3
+        },
+        {
+            "StatName": "Nature",
+            "StateBase": 3
+        },
+        {
+            "StatName": "Religion",
+            "StateBase": 3
+        },
+        {
+            "StatName": "Animal Handling",
+            "StateBase": 4
+        },
+        {
+            "StatName": "Insight",
+            "StateBase": 4
+        },
+        {
+            "StatName": "Medicine",
+            "StateBase": 4
+        },
+        {
+            "StatName": "Perception",
+            "StateBase": 4
+        },
+        {
+            "StatName": "Survival",
+            "StateBase": 4
+        },
+        {
+            "StatName": "Deception",
+            "StateBase": 5
+        },
+        {
+            "StatName": "Intimidation",
+            "StateBase": 5
+        },
+        {
+            "StatName": "Performance",
+            "StateBase": 5
+        },
+        {
+            "StatName": "Persuasion",
+            "StateBase": 5
+        }
+    ],
+    "OtherStats": [
+        "Inspiration",
+        "Proficiency Bonus",
+        "Passive Wisdom",
+        "Speed"
+    ],
+    "Races": [
+        {
+            "RaceName": "Example 1",
+            "RaceSummary": "Just write some stuff here",
+            "StatChanges": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "RaceName": "Example 2",
+            "RaceSummary": "Like this text",
+            "StatChanges": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "GenderGenetic": [
+        "Male",
+        "Female",
+        "Hermaphrodite",
+        "Genderless"
+    ],
+    "GenderIdentify": [
+        "Female",
+        "Male",
+        "Hermaphrodite",
+        "Trans-Female",
+        "Trans-Male",
+        "Gender-Fluid",
+        "Gender-Neutral/Non-binary",
+        "I said genderless"
+    ],
+    "Sexuality": [
+        "Heterosexual",
+        "Homosexual",
+        "Bisexual",
+        "Bi-Curious/Questioning",
+        "Pansexual",
+        "Asexual"
+    ],
+    "Languages": [
+        {
+            "LanguageName": "Example Language",
+            "LanguageScripture": "Example Scripture",
+            "Users": [
+                "UserA",
+                "UserB"
+            ]
+        },
+        {
+            "LanguageName": "Example Language 2",
+            "LanguageScripture": "Example Scripture",
+            "Users": [
+                "UserA",
+                "UserB"
+            ]
+        }
+    ]
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting is: {
+    "BASE_STATS_DO_NOT_CHANGE": [
+        "Strength",
+        "Dexterity",
+        "Constitution",
+        "Intelligence",
+        "Wisdom",
+        "Charisma"
+    ],
+    "ExtraStats": [
+        {
+            "StatName": "Athletics",
+            "StateBase": 0
+        },
+        {
+            "StatName": "Acrobatics",
+            "StateBase": 1
+        },
+        {
+            "StatName": "Sleight Of Hand",
+            "StateBase": 1
+        },
+        {
+            "StatName": "Stealth",
+            "StateBase": 1
+        },
+        {
+            "StatName": "Endurance",
+            "StateBase": 2
+        },
+        {
+            "StatName": "Arcana",
+            "StateBase": 3
+        },
+        {
+            "StatName": "History",
+            "StateBase": 3
+        },
+        {
+            "StatName": "Investigation",
+            "StateBase": 3
+        },
+        {
+            "StatName": "Nature",
+            "StateBase": 3
+        },
+        {
+            "StatName": "Religion",
+            "StateBase": 3
+        },
+        {
+            "StatName": "Animal Handling",
+            "StateBase": 4
+        },
+        {
+            "StatName": "Insight",
+            "StateBase": 4
+        },
+        {
+            "StatName": "Medicine",
+            "StateBase": 4
+        },
+        {
+            "StatName": "Perception",
+            "StateBase": 4
+        },
+        {
+            "StatName": "Survival",
+            "StateBase": 4
+        },
+        {
+            "StatName": "Deception",
+            "StateBase": 5
+        },
+        {
+            "StatName": "Intimidation",
+            "StateBase": 5
+        },
+        {
+            "StatName": "Performance",
+            "StateBase": 5
+        },
+        {
+            "StatName": "Persuasion",
+            "StateBase": 5
+        }
+    ],
+    "OtherStats": [
+        "Inspiration",
+        "Proficiency Bonus",
+        "Passive Wisdom",
+        "Speed"
+    ],
+    "Races": [
+        {
+            "RaceName": "Example 1",
+            "RaceSummary": "Just write some stuff here",
+            "StatChanges": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "RaceName": "Example 2",
+            "RaceSummary": "Like this text",
+            "StatChanges": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "GenderGenetic": [
+        "Male",
+        "Female",
+        "Hermaphrodite",
+        "Genderless"
+    ],
+    "GenderIdentify": [
+        "Female",
+        "Male",
+        "Hermaphrodite",
+        "Trans-Female",
+        "Trans-Male",
+        "Gender-Fluid",
+        "Gender-Neutral/Non-binary",
+        "I said genderless"
+    ],
+    "Sexuality": [
+        "Heterosexual",
+        "Homosexual",
+        "Bisexual",
+        "Bi-Curious/Questioning",
+        "Pansexual",
+        "Asexual"
+    ],
+    "Languages": [
+        {
+            "LanguageName": "Example Language",
+            "LanguageScripture": "Example Scripture",
+            "Users": [
+                "UserA",
+                "UserB"
+            ]
+        },
+        {
+            "LanguageName": "Example Language 2",
+            "LanguageScripture": "Example Scripture",
+            "Users": [
+                "UserA",
+                "UserB"
+            ]
+        }
+    ]
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 375.
+Total: 0.298673 ms (FindLiveObjects: 0.016935 ms CreateObjectMapping: 0.010776 ms MarkObjects: 0.237861 ms  DeleteObjects: 0.032843 ms)
+

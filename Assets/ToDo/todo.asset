@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33714207ad0202c419142573e6e74a38, type: 3}
+  m_Name: todo
+  m_EditorClassIdentifier: 
+  Entries:
+  - Text: " change to bool? so I can have Value.HasValue\r"
+    Note: 
+    Tag: TODO
+    File: D:\Unity\D&D Character Creator\Assets\Scripts\ContentInstance.cs
+    Line: 50
+    PathToShow: Assets/Scripts/ContentInstance.cs(50)
+  - Text: " Add character buton adds blank to database, not list, and updates others\r"
+    Note: 
+    Tag: TODO
+    File: D:\Unity\D&D Character Creator\Assets\Scripts\ContentManager.cs
+    Line: 164
+    PathToShow: Assets/Scripts/ContentManager.cs(164)
+  TagsList:
+  - TODO
+  - BUG
